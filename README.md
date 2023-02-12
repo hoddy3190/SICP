@@ -1,1 +1,1 @@
-# syntax-color
+# SICP
